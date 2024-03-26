@@ -1,0 +1,9 @@
+task 1:
+ *comapre the two json and then its both value is same then it print true.
+ *else the both value is not same then it print false.
+
+ task 2:
+ * printing a country flags of API URL in console.
+
+ task 3:
+ * printing all countries name,regions, sub-region and populations of the rest country.
